@@ -64,3 +64,21 @@ Nevertheless, the dataset provides a robust and timely representation of market 
 This project demonstrates how a structured and methodical data analysis approach can transform raw listing data into actionable insights. By combining rigorous data cleaning, contextual imputation, external enrichment, and interactive visualization, the analysis delivers a comprehensive view of the Portuguese real estate market from a supply-side perspective.
 
 The resulting dashboards support informed decision-making for investors, analysts, developers, and real estate professionals, offering clarity on regional dynamics, pricing behavior, and market concentration.
+
+
+## Dashboard Screenshots
+
+### Dashboard 1 
+
+![Dashboard 1](Dashboard/DB_1.png)
+
+
+### Dashboard 2 
+
+![Dashboard 2](Dashboard/DB_2.png)
+
+
+### Dashboard 3 
+
+![Dashboard 3](Dashboard/DB_3.png)
+
