@@ -22,8 +22,7 @@ Rather than simply visualizing data, the project emphasizes data quality, analyt
 The analysis began with a detailed data quality assessment, including the identification of missing values and the calculation of null percentages for each column. Columns with a high proportion of missing data or low analytical relevance were excluded to avoid distorting the analysis.
 
 For columns with a low percentage of missing values, a context-aware imputation strategy was applied. Average values were calculated based on:
-- Property type  
-- Furniture status  
+- Property type    
 - Average usable area  
 
 These averages were then used to estimate prices and replace missing values, preserving data integrity while maintaining representativeness.
